@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Match.cpp
+  MatchManagement.cpp
+D:\Программирование\C++\Универ\Match\Match\MatchManagement.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+D:\Программирование\C++\Универ\Match\Match\MatchManagement.cpp(112,13): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  Match.vcxproj -> D:\Программирование\C++\Универ\Match\Debug\Match.exe
